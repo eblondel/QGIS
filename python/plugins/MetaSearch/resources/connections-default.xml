@@ -12,4 +12,5 @@
     <csw name="Sweden: National CSW" url="http://www.geodata.se/InspireCswProxy/csw?"/>
     <csw name="UK Location Catalogue Publishing Service" url="http://csw.data.gov.uk/geonetwork/srv/en/csw"/>
     <csw name="UNEP GRID-Geneva Metadata Catalog" url="http://metadata.grid.unep.ch:8080/geonetwork/srv/eng/csw"/>
+    <csw name="UN-FAO Geonetwork Metadata Catalogue" url="http://www.fao.org/geonetwork/srv/en/csw"/>
 </qgsCSWConnections>
